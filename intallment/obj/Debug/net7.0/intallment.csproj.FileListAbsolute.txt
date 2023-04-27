@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\J\intallment\intallment\bin\Debug\net7.0\intallment.exe
+C:\Users\Home\Desktop\J\intallment\intallment\bin\Debug\net7.0\intallment.deps.json
+C:\Users\Home\Desktop\J\intallment\intallment\bin\Debug\net7.0\intallment.runtimeconfig.json
+C:\Users\Home\Desktop\J\intallment\intallment\bin\Debug\net7.0\intallment.dll
+C:\Users\Home\Desktop\J\intallment\intallment\bin\Debug\net7.0\intallment.pdb
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\intallment.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\intallment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\intallment.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\intallment.AssemblyInfo.cs
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\intallment.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\intallment.dll
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\refint\intallment.dll
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\intallment.pdb
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\intallment.genruntimeconfig.cache
+C:\Users\Home\Desktop\J\intallment\intallment\obj\Debug\net7.0\ref\intallment.dll
